@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+## NAME:N.KANNAN
 ## REG NO:212223230097
-## Name:N.KANNAN
 
 ## Aim: 
 To perform a study on Socket Programming
@@ -90,8 +90,6 @@ while True:
 
 ## Server:
 ![image](https://github.com/kannan-nagaraju/SocketStudy/assets/145742755/68d1033f-8da5-4d29-ae8f-3721286020da)
-
-
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
