@@ -92,4 +92,4 @@ while True:
 ![image](https://github.com/kannan-nagaraju/SocketStudy/assets/145742755/68d1033f-8da5-4d29-ae8f-3721286020da)
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.
