@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+## REG NO:212223230097
+## Name:N.KANNAN
 
 ## Aim: 
 To perform a study on Socket Programming
